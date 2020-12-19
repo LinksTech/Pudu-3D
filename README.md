@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel - aka [Links Tech]
 
-# Bear Frame Upgrade 2.1
+# Pudu-Duet MK1
 
 ## Table of contents
   1. [Introduction](#introduction)
@@ -22,27 +22,20 @@
   
   ## Introduction
 
-The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
-
-![Bear Frame Upgrade 2.1 MK3S](extra/photos/frame_01_900px.jpg)
-
+The Pudu3d Duet Printer is a Cost optimized version of the Caribou3d Duet Printer ;)
 
 
 ## Features
 
-  * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
-  * Compatible with lots of extruders like Original Prusa, BearExxa, BearMera (E3D Hemera) and Bondtech Prusa Upgrade
-  * Reuse of as many parts as possible
+  * Compatible with Caribou3d Printer Upgrades 
+  * Compatible with lots of extruders like Hemera / Matrix / Bondtech + more 
+  * Reuse of as many parts as possible of your Prusa Clon or your Old Printer 
   * Sturdy frame for faster printing
-  * High quality extrusions
-  * Custom, sturdier t-nuts
-  * Improved accuracy
+  * High quality 3030 extrusions 
   * Reduced noise level
   * Easy to use and maintain
   * Built to last
-  * Precisely engineered printed parts
-  * Thoroughly tested development
+  * Precisely engineered printed parts from Caribou
   * Highly customisable
-  * Detailed documentation via [guides.bear-lab.com](https://guides.bear-lab.com/)
-  * Active and open minded community
-  * Truly open source
+  * Detailed documentation via Coming Soon
+ 
