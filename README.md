@@ -29,7 +29,7 @@ The Pudu3d Duet Printer is a Cost optimized version of the Caribou3d Duet Printe
   * Detailed documentation via Coming Soon
   
   
- ## Sourcing Guide 
+## Sourcing Guide 
 
 
 
