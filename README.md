@@ -5,7 +5,7 @@
 ## Table of contents
   1. [Introduction](#introduction)
   1. [Features](#features)
-  1. [Sourcing Guide ](#Sourcing Guide)
+  1. [Features](#Sourcing Guide)
   1. [Coming Soon](#compatibility)
   1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
   
