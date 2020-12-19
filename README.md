@@ -5,7 +5,7 @@
 ## Table of contents
   1. [Introduction](#introduction)
   1. [Features](#features)
-  1. [License](#license)
+  1. [License](#Bill-of-Materials)
   1. [Coming Soon](#compatibility)
   1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
   
@@ -29,7 +29,8 @@ The Pudu3d Duet Printer is a Cost optimized version of the Caribou3d Duet Printe
   * Detailed documentation via Coming Soon
   
   
-## License
+## Bill of Materials
+
 
 
 ## Credit, sources and inspiration
