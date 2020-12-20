@@ -29,8 +29,9 @@ The Pudu3d Duet Printer is a Cost optimized version of the Caribou3d Duet Printe
   
 ## Bill of Materials
 
--[Read the Sourcing Guide for Germany here](doc/bom.md).
--[Read the Sourcing Guide for Worldwide here](doc/xworldwide.md).
+* [Read the Sourcing Guide for Germany here](doc/bom.md).
+
+* [Read the Sourcing Guide for Worldwide here](doc/xworldwide.md).
 
 
 ## Assembly guide
