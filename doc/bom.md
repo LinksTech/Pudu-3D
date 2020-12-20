@@ -24,7 +24,7 @@
 | M3 Nylock nut| 35 |
 | M3 square nut| 30 |
 | M3 washer| 35 |
-|  |  |
+| - | - |
 | Hexagon socket M3x8| 5 |
 | Hexagon socket M3x10| 32 |
 | Hexagon socket M3x12| 15 |
@@ -37,7 +37,7 @@
 | Hexagon socket M3x30| 12 |
 | Hexagon socket M3x35| 15 |
 | Hexagon socket M3x40| 4 |
-|  |  |
+| - | - |
 | Hexagon socket M6x12| 45 |
 | Hexagon socket M6x20| 4 |
 
