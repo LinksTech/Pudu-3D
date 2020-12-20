@@ -2,7 +2,7 @@
 
 ### Hardware Frame 
 
-| Part     | Quantity | Detail | Example Links |
+| Part     | Quantity | Detail |  Links |
 |----------|:--------:|--------|---------------|
 | Clon Prusa i3 MK2(S) or MK2.5(S) or MK3(S) | 1 | | [Aliexpress](https://www.prusa3d.com) |
 | T-Slot 3030 360mm      | 3  | | [Dold](https://www.dold-mechatronik.de/Aluminum-profile-black-30x30-B-type-groove-8-CUTTING-to-1200mm-750-EUR-m-025-EUR-per-section) |
@@ -46,7 +46,7 @@
 
 ### Hardware  
 
-| Part     | Quantity | Detail | Example Links |
+| Part     | Quantity | Detail |  Links |
 |----------|:--------:|--------|---------------|
 | T-Slot 3030 331mm      | 2  | | [Dold](x) |
 | T-Slot 3030 331mm      | 2  | | [Dold](x) |
