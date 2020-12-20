@@ -1,4 +1,4 @@
-# Pudu Duet
+# Pudu-X1
 
 ### Recommended filament for printing the parts
 
