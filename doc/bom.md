@@ -1,5 +1,10 @@
 # Pudu Duet
 
+### Recommended filament for printing the parts
+
+Filament PM Petg [Petg](hhttps://schmelz.bar/produktkategorie/filament/petg-filament-kaufen)
+
+
 ### Hardware Frame 
 
 | Part     | Quantity | Detail |  Links |
