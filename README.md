@@ -1,4 +1,4 @@
-# Pudu-Duet MK1
+# Pudu-X1 MK1 Release 26.12.2020
 
 ## Table of contents
   1. [Introduction](#introduction)
