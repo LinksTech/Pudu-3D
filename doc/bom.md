@@ -2,7 +2,7 @@
 
 ### Recommended filament for printing the parts
 
-Filament PM Petg [Petg](hhttps://schmelz.bar/produktkategorie/filament/petg-filament-kaufen)
+Filament PM Petg [Petg](https://schmelz.bar/produktkategorie/filament/petg-filament-kaufen)
 
 
 ### Hardware Frame 
