@@ -14,6 +14,12 @@
 | T-Slot 3030-M6 Hammer nuts     | 90  | | [Aliexpress](https://de.aliexpress.com/item/4000191556727.html?spm=a2g0s.9042311.0.0.27424c4duDHSIF) |
 
 
+### Pudu screw set (Pleace Buy it Locally this is the cheapest option for the screws)
+
+
+| Part     | Quantity |
+|----------|:--------:|
+| Clon Prusa i3 MK2(S) or MK2.5(S) or MK3(S) | 1 |
 
 
 ### Hardware  
