@@ -20,7 +20,7 @@
 
 
 
-### Pudu screws (Pleace Buy it Locally this is the cheapest option for the screws)
+### Screws (Pleace Buy it Locally this is the cheapest option for the screws)
 
 
 | Part     | Quantity |
