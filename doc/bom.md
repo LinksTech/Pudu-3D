@@ -1,4 +1,4 @@
-# Pudu-X1
+# Pudu-X1 Standalone Build
 
 ### Recommended filament for printing the parts
 
@@ -9,11 +9,9 @@
 
 | Part     | Quantity | Detail |  Links |
 |----------|:--------:|--------|---------------|
-| Clon Prusa i3 MK2(S) or MK2.5(S) or MK3(S) | 1 | | [Aliexpress](https://www.prusa3d.com) |
 | T-Slot 3030 360mm      | 3  | | [Dold](https://www.dold-mechatronik.de/Aluminum-profile-black-30x30-B-type-groove-8-CUTTING-to-1200mm-750-EUR-m-025-EUR-per-section) |
 | T-Slot 3030 330mm      | 2  | | [Dold](https://www.dold-mechatronik.de/Aluminum-profile-black-30x30-B-type-groove-8-CUTTING-to-1200mm-750-EUR-m-025-EUR-per-section) |
 | T-Slot 3030 320mm      | 2  | | [Dold](https://www.dold-mechatronik.de/Aluminum-profile-black-30x30-B-type-groove-8-CUTTING-to-1200mm-750-EUR-m-025-EUR-per-section) |
-| Präzisionswelle 360mm  | 2  | | [Dold](https://www.dold-mechatronik.de/Precision-shaft-8mm-h6-stainless-steel-X46Cr13-geschlifen-linear-shafts-and-hardened-CUTTING-to-1200mm-14-EUR-m-025-EUR-per-section) |
 | Blind Angle                  | 2  | | [Dold](https://www.dold-mechatronik.de/Interior-angle-zinc-die-cast-30-B-type-groove-8-angle-90-) |
 | Angle 30 B-type groove 8     | 6 | | [Dold](https://www.dold-mechatronik.de/Angle-30-B-type-groove-8) |
 | T-Slot 3030-M6 Hammer nuts     | 90  | | [Aliexpress](https://de.aliexpress.com/item/4000191556727.html?spm=a2g0s.9042311.0.0.27424c4duDHSIF) |
@@ -53,11 +51,11 @@
 
 | Part     | Quantity | Detail |  Links |
 |----------|:--------:|--------|---------------|
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
-| T-Slot 3030 331mm      | 2  | | [Dold](x) |
+| MK52      | 1  | | [aliexpress](https://de.aliexpress.com/item/32975240878.html?gps-id=pcStoreLeaderboard&scm=1007.22922.122102.0&scm_id=1007.22922.122102.0&scm-url=1007.22922.122102.0&pvid=6e0b7349-a82d-429a-8cb7-417a4f0fdb58&spm=a2g0o.store_home.smartLeaderboard_743896474.32975240878) |
+| BL-Touch Clon      | 1  | | [aliexpress](https://de.aliexpress.com/item/32949450525.html?spm=a2g0x.12010612.8148356.1.1d397098osCDWI) |
+| BMG Stuff     | 1  | | [aliexpress](https://de.aliexpress.com/item/4000021186440.html?spm=a2g0x.12010615.8148356.5.68864b97Ju6eGG) |
+| Hotend v6 24v   | 1  | | [aliexpress](https://de.aliexpress.com/item/32844028127.html?spm=a2g0x.12010615.8148356.2.2178d75bJxPHaU) |
+| Y Carriage     | 1  | | [aliexpress](https://de.aliexpress.com/item/32854159123.html?spm=a2g0x.12010612.8148356.72.1c796961ifq9IO) |
+| Stepper Kit      | 1  |1* | [aliexpress](https://de.aliexpress.com/item/32970275379.html?spm=a2g0x.12010612.8148356.29.59d73141b3QzIw) |
+| Präzisionswelle 360mm  | 2  | | [Dold](https://www.dold-mechatronik.de/Precision-shaft-8mm-h6-stainless-steel-X46Cr13-geschlifen-linear-shafts-and-hardened-CUTTING-to-1200mm-14-EUR-m-025-EUR-per-section) |
+
