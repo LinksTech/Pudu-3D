@@ -64,12 +64,6 @@
 | LM8UU     | 10  | | [aliexpress](https://de.aliexpress.com/item/4001122539243.html?spm=a2g0x.12010612.8148356.1.11ad3bc3cs7udr) |
 
 
-
-# 1. aaaa
-# 1. aaaa
-# 1. aaaa
-# 1. aaaa
-
 ### Board + PSU +
 
 | Part     | Quantity | Detail |  Links |
