@@ -62,3 +62,13 @@
 | Präzisionswelle 370mm  | 2  | | [Dold](https://www.dold-mechatronik.de/Precision-shaft-8mm-h6-stainless-steel-X46Cr13-geschlifen-linear-shafts-and-hardened-CUTTING-to-1200mm-14-EUR-m-025-EUR-per-section) |
 | Pulley + Timing belt  | 1  | | [aliexpress](https://de.aliexpress.com/item/33003768556.html?spm=a2g0o.productlist.0.0.1faa75e2FPvlhM&algo_pvid=fbaa332d-ba0e-4cdb-962f-953b923e4e02&algo_expid=fbaa332d-ba0e-4cdb-962f-953b923e4e02-9&btsid=0b0a187b16085861772467681e4d5d&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) |
 | LM8UU     | 10  | | [aliexpress](https://de.aliexpress.com/item/4001122539243.html?spm=a2g0x.12010612.8148356.1.11ad3bc3cs7udr) |
+
+*1
+*2
+*3
+
+### Board + PSU + LCD 1* 
+
+| Part     | Quantity | Detail |  Links |
+|----------|:--------:|--------|---------------|
+| T-Slot 3030 360mm      | 3  | | [Dold](https://www.dold-mechatronik.de/Aluminum-profile-black-30x30-B-type-groove-8-CUTTING-to-1200mm-750-EUR-m-025-EUR-per-section) |
