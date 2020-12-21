@@ -65,12 +65,12 @@
 
 
 
-1. aaaa
-1. aaaa
-1. aaaa
-1. aaa
+# 1. aaaa
+# 1. aaaa
+# 1. aaaa
+# 1. aaaa
 
-### Board + PSU + LCD
+### Board + PSU +
 
 | Part     | Quantity | Detail |  Links |
 |----------|:--------:|--------|---------------|
