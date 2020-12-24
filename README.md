@@ -1,5 +1,13 @@
 # Pudu-X1 V0.5  Release 26.12.2020
 
+## Planned Evolutions for the Project
+
+* sddd
+* ddd
+* ddd
+* ddd
+
+
 ## Table of contents
   1. [Introduction](#introduction)
   1. [Features](#features)
