@@ -1,8 +1,13 @@
 # Pudu-X1 V0.5  Release 26.12.2020
 
+## Introduction
+
+The Pudu3d Duet Printer is a Cost optimized version of a Famous 3030 Printer
+
+
 ## Planned Evolutions for the Project
 
-* Evolution 1 Pudu Source Launch (Step) 26.12.2020
+* Evolution 1 Pudu Source Release (Step) 26.12.2020
 * Evolution 2 Guide launch + Duet Firmware 31.12.2020
 * Evolution 3 Spool Holder + Filament Sensor Early 2021
 * Evolution 4 SchadowHunter Extruder Early 2021
@@ -16,10 +21,6 @@
   1. [Printed parts + Source](doc/releases.md)
   1. [Assembly guide](#Assembly-guide)
   1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
-  
-  ## Introduction
-
-The Pudu3d Duet Printer is a Cost optimized version of a Famous 3030 Printer
 
 
 ## Features
