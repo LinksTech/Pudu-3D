@@ -2,10 +2,11 @@
 
 ## Planned Evolutions for the Project
 
-* sddd
-* ddd
-* ddd
-* ddd
+* Evolution 1 Pudu Source Launch (Step) 26.12.2020
+* Evolution 2 Guide launch + Duet Firmware 31.12.2020
+* Evolution 3 Spool Holder + Filament Sensor Early 2021
+* Evolution 4 SchadowHunter Extruder Early 2021
+* Evolution 5 ???????
 
 
 ## Table of contents
