@@ -1,4 +1,4 @@
-# Pudu-X1 V0.5  Release 26.12.2020
+# Pudu-X1 V0 Release 26.12.2020
 
 ## Table of contents
   1. [Introduction](#introduction)
@@ -15,7 +15,7 @@ The Pudu3d-X1 Printer is a Cost optimized version of a Famous 3030 Printer
 
 ## Planned Evolutions for the Project
 
-* Evolution 1 Pudu Release 0.5 (Stl + Bom ) 26.12.2020
+* Evolution 1 Pudu Release V0 (Bom) 26.12.2020
 * Evolution 2 Guide Release + Duet Firmware 31.12.2020
 * Evolution 3 Spool Holder + Filament Sensor Early 2021
 * Evolution 4 SchadowHunter Extruder Early 2021
