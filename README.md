@@ -10,7 +10,7 @@
 
 ## Introduction
 
-The Pudu3d Duet Printer is a Cost optimized version of a Famous 3030 Printer
+The Pudu3d-X1 Printer is a Cost optimized version of a Famous 3030 Printer
 
 
 ## Planned Evolutions for the Project
