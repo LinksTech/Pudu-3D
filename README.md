@@ -64,5 +64,5 @@ The Pudu3d Duet Printer is a Cost optimized version of a Famous 3030 Printer
   * Thank you Kolbasa for all your Support and Help
  
 
-Massive thanks to these projects, without them the Pudu3d Duet could not exist!
+Massive thanks to these projects, without them the Pudu3d-X1 could not exist!
  
